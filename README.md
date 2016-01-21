@@ -1,4 +1,4 @@
-# Javascript Charts Guide
+# JavaScript Charts Guide
 
 Short guide on how to select the best JavaScript charting library
 
