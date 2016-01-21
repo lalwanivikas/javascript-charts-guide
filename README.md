@@ -24,4 +24,4 @@ With more than 70 different options available, it’s not an easy job to pick th
 
 ---
 
-#####Think I have missed something? Why not [email me](mailto:someone@example.com) or send a PR?
+#####Think I have missed something? Why not [email me](mailto:lalwani.vikas20@gmail.com) or send a PR?
