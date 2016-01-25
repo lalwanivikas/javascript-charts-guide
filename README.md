@@ -1,3 +1,11 @@
+#### Hello there! 
+#### I have completed my research and the article is now live. 
+#### Check out: [JavaScript Charts: The Definitive Gudie](http://www.fusioncharts.com/javascript-charts-guide/)
+#### Thanks!
+
+---
+
+
 # JavaScript Charts Guide
 
 With more than 70 different options available, it’s not an easy job to pick the right JavaScript charting library. This guide is here to help.
